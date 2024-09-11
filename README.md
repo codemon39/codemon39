@@ -33,7 +33,7 @@
 - C
 - C++
   
-- 📫 How to reach me **jamespk0309@gmail.com**
+   ### 📫How to teach me **jamespk0309@gmail.com**
 
 </p>
 
