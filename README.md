@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Codemon</h1>
 <p align="center">
-    I am a seasoned Full-Stack Developer with over 6 years of experience in building scalable, robust, and high-performance web applications. I specialize in both frontend and backend development, offering a solution for your project needs. My expertise lies in delivering user-friendly and efficient software that drives business success.
+    I am a seasoned Full-Stack Developer with rich experience in building scalable, robust, and high-performance web applications. I specialize in both frontend and backend development, offering a solution for your project needs. My expertise lies in delivering user-friendly and efficient software that drives business success.
 </p>
 
 ### Frontend Development
