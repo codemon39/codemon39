@@ -3,35 +3,7 @@
     I am a seasoned Full-Stack Developer with rich experience in building scalable, robust, and high-performance web applications. I specialize in both frontend and backend development, offering a solution for your project needs. My expertise lies in delivering user-friendly and efficient software that drives business success.
 </p>
 
-### Frontend Development
-- React.js <i class="fab fa-react"></i>
-- Next.js <i class="fab fa-react"></i>
-- Angular.js <i class="fab fa-angular"></i>
-- Vue.js <i class="fab fa-vuejs"></i>
-- React Native <i class="fab fa-react"></i>
-- Bootstrap <i class="fab fa-bootstrap"></i>
-- TailwindCSS
-- ChakraUI
-- Ant Design
-- MaterialUI
 
-### Backend Development
-- Node.js <i class="fab fa-node-js"></i>
-- PHP <i class="fab fa-php"></i>
-- MongoDB <i class="fas fa-database"></i>
-- GraphQL <i class="fas fa-link"></i>
-- Laravel
-- Express
-- Nest
-- Fastify
-- Django
-
-### Programming Languages
-- JavaScript <i class="fab fa-js"></i>
-- TypeScript <i class="fab fa-js"></i>
-- Python
-- C
-- C++
   
    ### 📫How to teach me **jamespk0309@gmail.com**
 
