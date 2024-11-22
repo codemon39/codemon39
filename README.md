@@ -5,7 +5,7 @@
 
 
   
-   ### 📫How to teach me **jamespk0309@gmail.com**
+   ### 📫How to contact me **jamespk0309@gmail.com**
 
 </p>
 
